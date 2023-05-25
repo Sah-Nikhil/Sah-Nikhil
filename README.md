@@ -1,4 +1,4 @@
-<img align="left" alt="HTML" src="https://raw.githubusercontent.com/xV3SPERx/I-am-NikhilSah/main/NikhilSah_LinkedIn_Banner.png" /> 
+<img align="left" alt="HTML" src="https://raw.githubusercontent.com/xV3SPERx/I-am-NikhilSah/main/NikhilSah_LinkedIn_Banner_2.png" /> 
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="40px">
