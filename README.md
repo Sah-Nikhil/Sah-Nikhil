@@ -31,4 +31,3 @@ These are some of the major technologies that I use or have worked on in the pas
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xV3SPERx&label=Profile%20views&color=CF0808&style=plastic" alt="xV3SPERx" /> </p>
-![](https://komarev.com/ghpvc/?username=your-github-username)
