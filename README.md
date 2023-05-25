@@ -30,4 +30,5 @@ These are some of the major technologies that I use or have worked on in the pas
 <a href="https://twitter.com/NikhilSah_" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=promathieuthiry&label=Profile%20views&color=0e75b6&style=flat" alt="promathieuthiry" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xV3SPERx&label=Profile%20views&color=CF0808&style=plastic" alt="xV3SPERx" /> </p>
+![](https://komarev.com/ghpvc/?username=your-github-username)
