@@ -2,7 +2,7 @@
 <!--- https://hotpot.ai/download?id=xadvmlSvXEku_1584_396&email=null banner edit link-->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="40px">
-My name is Nikhil Sah and I'm a Budding developer. I'm from India, living in New Delhi and currently working at a few personal projects. You can find my portfolio at <a href="" target="_blank">xyz</a>  as well as on <a href="" target="_blank">codepen</a>.  
+My name is Nikhil Sah and I'm a Budding developer. I'm from India, living in New Delhi and currently working at a few personal projects. You can find my portfolio at <a href="" target="_blank">xyz</a>  as well as on <a href="" target="_blank">LeetCode</a>.  
 
 ## 🔧 Technologies & Tools
 These are some of the major technologies that I use or have worked on in the past:
