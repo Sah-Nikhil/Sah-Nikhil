@@ -23,7 +23,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <img align="left" alt="intellij" width="40px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />  <br/>
 <br/> 
 -->
-     
+<br>    
 ***    
 
 <em><p align="center">let's get in touch!</p></em>
