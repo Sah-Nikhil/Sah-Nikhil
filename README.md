@@ -23,8 +23,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <br/> 
 -->
 
-***    
-
+<hr>
 <em><p align="center">let's get in touch!</p></em>
 <p align="center">
 <a href="https://www.linkedin.com/in/sah-nikhil/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
