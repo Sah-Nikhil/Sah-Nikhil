@@ -29,6 +29,8 @@ These are some of the major technologies that I use or have worked on in the pas
 <em><p align="center">let's get in touch!</p></em>
 <p align="center">
 <a href="https://www.linkedin.com/in/sah-nikhil/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sah-nikhil" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sah-nikhil?trk=profile-badge">Nikhil Sah</a></div>
+              
 <a href="https://twitter.com/NikhilSah_" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
