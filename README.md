@@ -2,17 +2,18 @@
 <!--- https://hotpot.ai/download?id=xadvmlSvXEku_1584_396&email=null banner edit link-->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="40px">
-My name is Nikhil Sah and I'm a Budding developer. I'm from India, living in New Delhi and currently working at a few personal projects. You can find my portfolio at <a href="" target="_blank">xyz</a>  as well as on <a href="https://www.hackerrank.com/profile/nikhil_sah" target="_blank">HackerRank</a>.  
+My name is Nikhil Sah and I'm a Budding developer. I'm from India, living in New Delhi and currently working at a few personal projects. You can find me<!-- my portfolio at--> on <a href="https://www.codewars.com/users/V3SPER" target="_blank">CodeWars</a>  as well as on <a href="https://www.hackerrank.com/profile/nikhil_sah" target="_blank">HackerRank</a>.  
 
 ## 🔧 Technologies & Tools
 These are some of the major technologies that I use or have worked on in the past:
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <br/>
+<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <br/> 
 
 <!--
-<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
 <img align="left" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Material UI" width="40px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" />
