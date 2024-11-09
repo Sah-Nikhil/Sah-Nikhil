@@ -34,7 +34,6 @@ My name is Nikhil Sah and I'm a Budding developer. I'm from India, living in New
 </p>
 
 <br> 
-<br>
 
 <!--
 
