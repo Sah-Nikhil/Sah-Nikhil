@@ -1,9 +1,24 @@
-<!---<img align="left" alt="HTML" src="https://raw.githubusercontent.com/xV3SPERx/I-am-NikhilSah/main/NikhilSah_LinkedIn_Banner.png" /> -->
-<!--- https://hotpot.ai/download?id=xadvmlSvXEku_1584_396&email=null banner edit link-->
+<h1 align="center">Hi 👋, I'm Nikhil Sah</h1>
+<h3 align="center">A Second year student working on Computer Science projects </h3>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="40px">
-My name is Nikhil Sah and I'm a Budding developer. I'm from India, living in New Delhi and currently working at a few personal projects. You can find me<!-- my portfolio at--> on <a href="https://www.codewars.com/users/V3SPER" target="_blank">CodeWars</a>  as well as on <a href="https://www.hackerrank.com/profile/nikhil_sah" target="_blank">HackerRank</a>.  
+<img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39">
+- 🔭 I’m currently working on **a WebApp built using the MERN Stack**
 
+- 👯 I’m looking to collaborate on **AI and ML and Web Development projects**
+
+- 🤝 I’m looking for help with **Web Dev and DevOps**
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/NikhilSah_" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<br>
+<br>
+<a href="https://www.linkedin.com/in/sah-nikhil/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 ### Skills
 
 <p align="left">
@@ -20,8 +35,6 @@ My name is Nikhil Sah and I'm a Budding developer. I'm from India, living in New
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  -->
  
 </p>
-
-
 ### Technologies
 <p align="left">
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
@@ -33,27 +46,13 @@ My name is Nikhil Sah and I'm a Budding developer. I'm from India, living in New
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongo" width="40" height="40"/> </a>
 </p>
 
-<br> 
+<br>
+<br>
 
-<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sah-Nikhil&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Sah-Nikhil" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sah-Nikhil&show_icons=true&theme=tokyonight&locale=en" alt="Sah-Nikhil" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sah-Nikhil&theme=dark" alt="Sah-Nikhil" /></p>
 
-<img align="left" alt="Material UI" width="40px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" />
-<img align="left" alt="PWA" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
-
-<img align="left" alt="Postman" width="40px" src="https://icon-library.com/images/postman-icon/postman-icon-6.jpg" />
-<img align="left" alt="Wordpress" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-
-<img align="left" alt="intellij" width="40px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />  <br/>
-<br/> 
--->
-
-<hr>
-<em><p align="center">let's get in touch!</p></em>
-<p align="center">
-<a href="https://www.linkedin.com/in/sah-nikhil/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/NikhilSah_" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xV3SPERx&label=Profile%20views&color=CF0808&style=plastic" alt="xV3SPERx" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sah-Nikhil&label=Profile%20views&color=CF0808&style=plastic" alt="xV3SPERx" /> </p>
