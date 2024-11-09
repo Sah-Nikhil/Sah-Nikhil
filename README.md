@@ -51,4 +51,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sah-Nikhil&theme=dark" alt="Sah-Nikhil" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sah-Nikhil&label=Profile%20views&color=CF0808&style=plastic" alt="xV3SPERx" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xV3SPERx&label=Profile%20views&color=CF0808&style=plastic" alt="xV3SPERx" /> </p>
