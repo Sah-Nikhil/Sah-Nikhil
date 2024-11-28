@@ -2,11 +2,11 @@
 <h3 align="center">A Sophomore working on Computer Science projects </h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39">
-- 🔭 I’m currently working on **a WebApp built using the MERN Stack**
+- 🔭 I’m currently working on a WebApp built using the MERN Stack
 
-- 👯 I’m looking to collaborate on **AI and ML and Web Development projects**
+- 👯 I’m looking to collaborate on AI and ML and Web Development projects
 
-- 🤝 I’m looking for help with **Web Dev and DevOps**
+- 🤝 I’m looking interested in Web Dev and DevOps
 
 
 
