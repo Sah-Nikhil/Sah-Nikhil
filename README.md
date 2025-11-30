@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39"> 
 <br>
-<!-- - I’m currently working on building WebApps and Agentic AI Workflows 
+<!-- - I’m currently working on building WebApps and Agentic AI Workflows  -->
 
-- I’m looking to collaborate on AI&ML and Dev projects
+<!-- - I’m looking to collaborate on AI&ML and Dev projects
 
-- I’m interested in AI&ML and DevOps -->
+<!-- - I’m interested in AI&ML and DevOps -->
 
 
 
