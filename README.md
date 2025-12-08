@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikhil Sah</h1>
-<h3 align="center">A Uni Junior working on Computer Science projects </h3>
+<h1 align="center">👋 Hi, I'm Nikhil</h1>
+<h3 align="center">A Uni Junior working on Computer Science projects</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39"> 
 <br>
@@ -11,7 +11,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://twitter.com/NikhilSah_" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <br>
