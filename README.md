@@ -46,8 +46,8 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongo" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sah-Nikhil&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Sah-Nikhil" />
-</p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sah-Nikhil&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Sah-Nikhil" />
+</p> -->
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xV3SPERx&label=Profile%20views&color=CF0808&style=plastic" alt="xV3SPERx" /> </p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sah-Nikhil&show_icons=true&theme=tokyonight&locale=en" alt="Sah-Nikhil" /></p> -->
