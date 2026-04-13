@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nikhil</h1>
-<h3 align="center">A Uni Junior working on DevOps & AI Projects</h3>
+<h3 align="center">A Uni Junior working on AI Projects</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39"> 
 <br>
