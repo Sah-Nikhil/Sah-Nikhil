@@ -1,14 +1,16 @@
 <div align="center">
-👋 Hi, I'm Nikhil
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+ 
+ # 👋 Hi, I'm Nikhil
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39">  -->
-A Uni Senior working on AI Projects</div>
+A Uni Senior working on AI Projects
+</div>
 <!-- - I’m currently working on building WebApps and Agentic AI Workflows  -->
 <!-- - I’m looking to collaborate on AI&ML and Dev projects
 <!-- - I’m interested in AI&ML and DevOps -->
 <!-- <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Skills</h4> -->
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 <!-- TECH STACK -->
