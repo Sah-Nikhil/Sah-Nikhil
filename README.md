@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, I'm Nikhil</h1>
-<img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39"> 
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39">  -->
 <h3 align="left">A Uni Senior working on AI Projects</h3>
 
 <br>
@@ -26,10 +26,8 @@
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,redis,mysql,graphql&perline=8" /> |
 | **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" /> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,aws,nginx,firebase,postman,jenkins&perline=10" /> |
-| **Specialized** | ![deck.gl](https://img.shields.io/badge/deck.gl-FF6600?style=for-the-badge&logo=uber&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white) ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Kali](https://img.shields.io/badge/CyberSec-000?style=for-the-badge&logo=kali-linux&logoColor=white) |
-
 </div>
-
+<!-- | **Specialized** | ![deck.gl](https://img.shields.io/badge/deck.gl-FF6600?style=for-the-badge&logo=uber&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white) ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Kali](https://img.shields.io/badge/CyberSec-000?style=for-the-badge&logo=kali-linux&logoColor=white) | -->
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
