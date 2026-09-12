@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi, I'm Nikhil</h1>
-<h3 align="center">A Uni Senior working on AI Projects</h3>
+<h1 align="left">👋 Hi, I'm Nikhil</h1>
+<h3 align="left">A Uni Senior working on AI Projects</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39"> 
 
 <br>
 <!-- - I’m currently working on building WebApps and Agentic AI Workflows  -->
@@ -29,7 +30,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39"> 
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
