@@ -19,32 +19,27 @@
 <a href="https://www.linkedin.com/in/sah-nikhil/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Skills</h4>
+<!-- <h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Skills</h4> -->
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  
-<!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  -->
- 
-</p>
-<h4 align="left">Technologies</h4>
-<p align="left">
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>-->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="40" height="40"/> </a> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongo" width="40" height="40"/> </a>
+<!-- TECH STACK -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Tech Stack**
+
+| **Stack** | **Technologies** |
+|:---:|:---:|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,python,js,cpp,c,html,css,bash,rust&perline=10" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs,framer,redux,sass&perline=8" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,redis,mysql,graphql&perline=8" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" /> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,aws,nginx,firebase,postman,jenkins&perline=10" /> |
+| **Specialized** | ![deck.gl](https://img.shields.io/badge/deck.gl-FF6600?style=for-the-badge&logo=uber&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white) ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Kali](https://img.shields.io/badge/CyberSec-000?style=for-the-badge&logo=kali-linux&logoColor=white) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sah-Nikhil&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Sah-Nikhil" />
 </p> -->
