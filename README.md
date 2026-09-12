@@ -14,14 +14,15 @@
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://twitter.com/NikhilSah_" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<br>
-<br>
+<br/>
+<br/>
 <a href="https://www.linkedin.com/in/sah-nikhil/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Skills</h4> -->
-
+<br/>
+<br/>
 <!-- TECH STACK -->
 <div align="center">
 
