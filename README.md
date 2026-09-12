@@ -13,7 +13,7 @@
 <!-- TECH STACK -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Tech Stack**
+ **Tech Stack**
 
 | **Stack** | **Technologies** |
 |:---:|:---:|
