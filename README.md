@@ -28,6 +28,7 @@
 | **DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,aws,nginx,firebase,postman,jenkins&perline=10" /> |
 </div>
 <!-- | **Specialized** | ![deck.gl](https://img.shields.io/badge/deck.gl-FF6600?style=for-the-badge&logo=uber&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white) ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Kali](https://img.shields.io/badge/CyberSec-000?style=for-the-badge&logo=kali-linux&logoColor=white) | -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
@@ -37,7 +38,6 @@
 <a href="https://www.linkedin.com/in/sah-nikhil/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sah-Nikhil&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Sah-Nikhil" />
