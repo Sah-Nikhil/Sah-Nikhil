@@ -10,15 +10,6 @@
 <!-- - I’m interested in AI&ML and DevOps -->
 
 
-
-<h3 align="left">Connect with me on:</h3>
-<p align="left">
-<a href="https://twitter.com/NikhilSah_" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<br/>
-<br/>
-<a href="https://www.linkedin.com/in/sah-nikhil/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
 <!-- <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Skills</h4> -->
 <br/>
@@ -40,6 +31,14 @@
 | **Specialized** | ![deck.gl](https://img.shields.io/badge/deck.gl-FF6600?style=for-the-badge&logo=uber&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white) ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Kali](https://img.shields.io/badge/CyberSec-000?style=for-the-badge&logo=kali-linux&logoColor=white) |
 
 </div>
+
+<h3 align="left">Connect with me on:</h3>
+<p align="left">
+<a href="https://twitter.com/NikhilSah_" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<br/>
+<br/>
+<a href="https://www.linkedin.com/in/sah-nikhil/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
