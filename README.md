@@ -1,6 +1,6 @@
-<h1 align="left">👋 Hi, I'm Nikhil</h1>
+<h1 align="center">👋 Hi, I'm Nikhil</h1>
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/Nikhileshs19/Nikhileshs19/assets/117987806/bdd90418-2116-4e2d-bcb8-f3e475d55b39">  -->
-<h3 align="left">A Uni Senior working on AI Projects</h3>
+<h3 align="center">A Uni Senior working on AI Projects</h3>
 
 <br>
 <!-- - I’m currently working on building WebApps and Agentic AI Workflows  -->
@@ -29,8 +29,8 @@
 </div>
 <!-- | **Specialized** | ![deck.gl](https://img.shields.io/badge/deck.gl-FF6600?style=for-the-badge&logo=uber&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white) ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Kali](https://img.shields.io/badge/CyberSec-000?style=for-the-badge&logo=kali-linux&logoColor=white) | -->
 
-<h3 align="left">Connect with me on:</h3>
-<p align="left">
+<h3 align="center">Connect with me on:</h3>
+<p align="center">
 <a href="https://twitter.com/NikhilSah_" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <br/>
 <br/>
